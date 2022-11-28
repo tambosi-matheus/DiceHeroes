@@ -1,2 +1,2 @@
-# DiceHeroes
+# Dice-Puzzle
  
